@@ -12,14 +12,14 @@ A ferramenta possui:
 Nesta aba, o usuário poderá preencher os **dados do titular da declaração**, focando nas principais informações pessoais para o preenchimento do Imposto de Renda.
 
 <p align="center">
-  <img src="imagens/Titular.PNG" alt="Tabela de Configurações" width="600">
+  <img src="Imagens/Titular.PNG" alt="Tabela de Configurações" width="600">
 </p>
 
 ## 2ª Tela – Informes
 Na tela **Informes**, o usuário poderá registrar informações de **um ou mais bancos**, facilitando o controle dos rendimentos e a visualização do **total acumulado**.
 
 <p align="center">
-  <img src="imagens/Informes.PNG" alt="Tabela de Configurações" width="600">
+  <img src="Imagens/Informes.PNG" alt="Tabela de Configurações" width="600">
 </p>
 
 ## 3ª Tela – Notas
@@ -30,5 +30,5 @@ Na aba **Notas**, o usuário poderá registrar:
 Essa organização permite no controle financeiro e na revisão dos dados para a declaração.
 
 <p align="center">
-  <img src="imagens/Notas.PNG" alt="Tabela de Configurações" width="600">
+  <img src="Imagens/Notas.PNG" alt="Tabela de Configurações" width="600">
 </p>
