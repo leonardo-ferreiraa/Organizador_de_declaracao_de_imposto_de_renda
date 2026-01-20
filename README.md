@@ -1,5 +1,7 @@
 # Organizador_de_Declaracao_Imposto_de_Renda
 
+Projeto feito na DIO em parceria com Trainee Santander.
+
 Este projeto tem como objetivo o desenvolvimento de uma planilha em Excel voltada para a **organização e centralização de informações para a declaração do Imposto de Renda**.
 
 A proposta é oferecer um **agregador de dados simples e funcional**, permitindo que o usuário registre e controle suas informações financeiras de maneira prática.
